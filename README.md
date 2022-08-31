@@ -1,8 +1,9 @@
-# Frontend exercises
-This repo includes several frontend tasks. You can find tasks in branches based on topic it contains. As usual it starts easy and complexity grows.
+#HTML basics
 
-## Technologies covered
-1. HTML
-2. CSS
-3. Typescript
-4. React
+Create a Curriculum vitae (CV) with simple one column layout
+
+## Izklājums:
+
+<p>
+    <img src="./assets/wireframe.png" width="220" height="240" />
+</p>
