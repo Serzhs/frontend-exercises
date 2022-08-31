@@ -1,4 +1,4 @@
-#HTML basics
+# HTML basics
 
 Create a Curriculum vitae (CV) with simple one column layout
 
