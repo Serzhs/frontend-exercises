@@ -1,8 +1,11 @@
-# Frontend exercises
-This repo includes several frontend tasks. You can find tasks in branches based on topic it contains. As usual it starts easy and complexity grows.
+# HTML Forms
 
-## Technologies covered
-1. HTML
-2. CSS
-3. Typescript
-4. React
+Create HTML form using at least 3 different input elements and 3 different input types 
+
+## Useful HTML elements to complete task
+`form, input, select, label, textarea, button, option`
+
+## Wireframe
+<img src="https://github.com/Serzhs/frontend-exercises/blob/html-forms/assets/wireframe.png?raw=true" width="600" />
+
+
