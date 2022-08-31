@@ -1,8 +1,9 @@
-# Frontend exercises
-This repo includes several frontend tasks. You can find tasks in branches based on topic it contains. As usual it starts easy and complexity grows.
+# CSS basics
 
-## Technologies covered
-1. HTML
-2. CSS
-3. Typescript
-4. React
+https://www.figma.com/file/rjz5hwVUqFJGQ96TCBCjTm/Jelly-Button%F0%9F%98%81-(Community)?node-id=6%3A1368
+
+## Useful CSS properties to complete task
+`font-size, font-family, width, height, background-color, padding, margin, border, text-decoration, border-radius, font-style, font-weight`
+
+## Wireframe
+<img src="https://github.com/Serzhs/frontend-exercises/blob/css-basics/assets/wireframe.png" width="600" />
