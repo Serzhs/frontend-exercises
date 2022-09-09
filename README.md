@@ -4,7 +4,7 @@ Create layout visible in wireframe using flexbox grid library. Layout needs to c
 <strong>NB! Flexbox grid is already included into this repo</strong>  
 
 # Wireframe
-<img src="https://github.com/Serzhs/frontend-exercises/blob/css-flexbox-grid/assets/wireframe1.png" width="600" />
+<img src="https://github.com/Serzhs/frontend-exercises/blob/css-flexbox-grid/assets/wireframe.png" width="600" />
 
 
 ## Useful links
