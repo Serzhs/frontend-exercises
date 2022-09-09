@@ -1,8 +1,11 @@
 # Frontend exercises
-This repo includes several frontend tasks. You can find tasks in branches based on topic it contains. As usual it starts easy and complexity grows.
+Create layout visible in wireframe using flexbox grid library. Layout needs to change when you make screen smaller.
 
-## Technologies covered
-1. HTML
-2. CSS
-3. Typescript
-4. React
+<strong>NB! Flexbox grid is already included into this repo</strong>  
+
+# Wireframe
+<img src="https://github.com/Serzhs/frontend-exercises/blob/css-flexbox-grid/assets/wireframe1.png" width="600" />
+
+
+## Useful links
+[Flexbox Grid](http://flexboxgrid.com/)
