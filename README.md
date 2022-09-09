@@ -1,8 +1,20 @@
-# Frontend exercises
-This repo includes several frontend tasks. You can find tasks in branches based on topic it contains. As usual it starts easy and complexity grows.
+# CSS BEM
+Create HTML elements based on wireframe and add proper classes according to BEM principles
 
-## Technologies covered
-1. HTML
-2. CSS
-3. Typescript
-4. React
+# Wireframes
+
+<img src="https://github.com/Serzhs/frontend-exercises/blob/css-bem/assets/wireframe1.png" width="600" />
+
+<br><br>
+<br><br>
+
+<img src="https://github.com/Serzhs/frontend-exercises/blob/css-bem/assets/wireframe2.png" width="600" />
+
+<br><br>
+<br><br>
+
+<img src="https://github.com/Serzhs/frontend-exercises/blob/css-bem/assets/wireframe2.png" width="600" />
+
+
+## Useful links
+[BEM — Block Element Modifier](http://getbem.com/)
