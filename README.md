@@ -1,8 +1,9 @@
 # Frontend exercises
-This repo includes several frontend tasks. You can find tasks in branches based on topic it contains. As usual it starts easy and complexity grows.
+Create layouts visible in wireframe using CSS grid.
 
-## Technologies covered
-1. HTML
-2. CSS
-3. Typescript
-4. React
+# Wireframe
+<img src="https://github.com/Serzhs/frontend-exercises/blob/css-grid/assets/wireframe1.png" width="600" />
+
+## Useful links
+[A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) <br />
+[GRID GARDEN](https://cssgridgarden.com/)
