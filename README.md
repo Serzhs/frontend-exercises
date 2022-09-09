@@ -1,8 +1,9 @@
-# Frontend exercises
-This repo includes several frontend tasks. You can find tasks in branches based on topic it contains. As usual it starts easy and complexity grows.
+# CSS Flexbox
+Create layout you see in wireframe using flexbox. This repository includes HTML and CSS blueprint.  
 
-## Technologies covered
-1. HTML
-2. CSS
-3. Typescript
-4. React
+# Wireframe
+<img src="https://github.com/Serzhs/frontend-exercises/blob/css-flexbox/assets/wireframe2.png" width="600" />
+
+## Useful links
+[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) <br />
+[FLEXBOX FROGGY](https://flexboxfroggy.com/)
