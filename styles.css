@@ -1,0 +1,11 @@
+.grid {
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    gap: 10px;
+    width: 100%;
+}
+
+.grid__box {
+    background-color: rgba(0, 155, 0, 0.5);
+}
+
