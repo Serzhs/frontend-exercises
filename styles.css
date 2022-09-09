@@ -1,0 +1,36 @@
+.flex {
+
+}
+
+.flex__children:nth-child(1) {
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+.flex__children:nth-child(2) {
+    background-color: rgba(255, 215, 0, 0.5);
+}
+
+.flex__children:nth-child(3) {
+    background-color: rgba(0, 0, 255, 0.5);
+}
+
+.flex__children:nth-child(4) {
+    background-color: rgba(0, 128, 0, 0.5);
+}
+
+.flex__children---exercise1 {
+
+}
+
+.flex__children---exercise2 {
+
+}
+
+.flex__children---exercise3 {
+
+}
+
+.flex__children---exercise4 {
+
+}
+
