@@ -1,6 +1,6 @@
 # HTML Forms
 
-Create HTML form using at least 3 different input elements and 3 different input types 
+Create HTML form using at least 3 different input elements and 3 different input types. Validation is mandatory.
 
 ## Useful HTML elements to complete task
 `form, input, select, label, textarea, button, option`
