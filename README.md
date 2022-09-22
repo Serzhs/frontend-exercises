@@ -1,8 +1,20 @@
-# Frontend exercises
-This repo includes several frontend tasks. You can find tasks in branches based on topic it contains. As usual it starts easy and complexity grows.
+# Data types
+Fill out the table with proper primitive data types, three available options are `string`,`number` or `boolean`.
 
-## Technologies covered
-1. HTML
-2. CSS
-3. Typescript
-4. React
+## Exercise 
+|Data| Data type |
+|-------------|:-------------:|
+| `"Hello World"` ||
+| `1` ||
+| `"2000"` ||
+| `-5` ||
+| `false` ||
+| `"false"` ||
+| `true` ||
+| `0` ||
+| `1 + 2` ||
+| `"5" + "6"` ||
+| `true + true` ||
+| `100 - "50"` ||
+
+
