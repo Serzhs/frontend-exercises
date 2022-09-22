@@ -14,7 +14,7 @@ Need to add CSS to styles.css file to match following conditions:
 12. All `.list-item` which is inside `.aside-wrapper` and had class `active` should have `opacity` of 1
 13. Buttons on `hover` should change `background-color: cadetblue`
 14. Anchors without class `link` should be in gold
-15. Visited anchors should have `opacity` of 0.5
+15. Visited anchors should have `color` of `rgba(0, 0, 0, 0.5)`
 
 **NB! HTML Should not be changed!**
 
