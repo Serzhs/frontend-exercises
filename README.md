@@ -1,7 +1,10 @@
 # Data types
+Purpose of these exercises is to better understand primitive data types in Typescript.
+
+## Exercise 1
+
 Fill out the table with proper primitive data types, three available options are `string`,`number` or `boolean`.
 
-## Exercise 
 |Data| Data type |
 |-------------|:-------------:|
 | `"Hello World"` ||
