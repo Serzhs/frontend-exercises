@@ -1,5 +1,5 @@
 # Frontend exercises
-Create layout visible in wireframe using flexbox grid library. Layout needs to change when you make screen smaller.
+Create layout for large screens visible in wireframe using flexbox grid library. Layout needs to be adjusted to medium, small and extra small screens as well.
 
 <strong>NB! Flexbox grid is already included into this repo</strong>  
 
