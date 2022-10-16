@@ -1,4 +1,4 @@
-# Data types
+# Primitive Data types
 Purpose of these exercises is to better understand primitive data types in Typescript.
 
 ## Exercise 1
