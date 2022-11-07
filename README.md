@@ -40,7 +40,6 @@ Provide code example for following:
 * Concatenate `Leeroy` and `Jenkins`
 * Remove whitespace from both sides in `••••Leeroy Jenkins!••••`
 * Return second letter in word `Leeroy`
-* Check if there is word `Jenkins` in `Leeroy Jenkins!`
 * Check if `Leeroy Jenkins!` includes `Jenkins`
 * Check if `Leeroy Jenkins!` includes `Dragon`
 * On which index does `Jenkins` starts in `Leeroy Jenkins!`
