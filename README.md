@@ -33,7 +33,7 @@ Purpose for this exercise is to understand some `string` methods.
 
 Provide code example for following:
 * How many characters there are in `Leeroy Jenkins!`
-* Extract words from index `0` to `5` in `Leeroy Jenkins!`
+* Extract words from index `0` to `6` in `Leeroy Jenkins!`
 * Replace word `Leeroy` with `Leeeeeeeeeeeeeroy` in `Leeroy Jenkins!`
 * Make `Leeroy Jenkins!` in uppercase
 * Make `Leeroy Jenkins!` in lowercase
