@@ -23,7 +23,7 @@ Purpose of this exercises is to understand variables and difference between `var
 
 When you are done can you spot a differences between variable declaration types in matter of scope?
 
-Here is the table, that may help you:
+Here is a table, that may help you:
 <img src="https://github.com/Serzhs/frontend-exercises/raw/typescript-variables/assets/typescript-variables.png" width="600" style="max-width: 100%;">
 
 ## Useful links
