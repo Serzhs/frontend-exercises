@@ -6,7 +6,7 @@ Create following arrays:
 - Empty
 - Five strings
 - Three numbers
-- Two arrays, with two numbers each
+- Array with two arrays, with two numbers each
 - Two strings, one `null`, three numbers and two empty arrays
 - Level 5 nested array
 
