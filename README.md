@@ -1,8 +1,18 @@
-# Frontend exercises
-This repo includes several frontend tasks. You can find tasks in branches based on topic it contains. As usual it starts easy and complexity grows.
+# Functions
+Purpose of these exercises is to better understand functions
 
-## Technologies covered
-1. HTML
-2. CSS
-3. Typescript
-4. React
+#Exercise 1 - functions
+Create and call functions mentioned below:
+ - Function with name `myFirstFunction` that console logs your name
+ - Function within a variable called `myFirstVariableFunction` that console logs your favorite food
+ - Arrow Function called `returnTwo` that returns `2`
+ - Arrow function inside variable `sumTwoAndFive` that returns `2 + 5`
+ - Arrow Function called `arumentFunction` with an argument that console logs it
+ - Arrow Function called `sumTwoNumbers` with 2 numbers as arguments to sum them and return result
+ - Object called `mathObj` that has a key `sumTwoNumbers` with value of function created above.
+ - One line Arrow function called `LuckyFuntion` that returns 7 + 7 + 7
+ - Multi line Arrow function called `ObjectFunction` that returns object with 3 keys `favoriteMovie`, `favoriteAnimal` amd `favoriteMcDonaldsMeal` without writing word `return`
+
+## Useful links
+- [JavaScript Functions](https://www.w3schools.com/js/js_functions.asp)
+- [JavaScript Arrow Function](https://www.w3schools.com/js/js_arrow_function.asp)
