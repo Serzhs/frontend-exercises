@@ -2,12 +2,12 @@
 Purpose of these exercises is to better understand `array` data type
 
 ## Exercise 1 - Create array
-Create following arrays:
-- Empty
+Create following arrays containing:
+- Emptyness
 - Five strings
 - Three numbers
-- Array with two arrays, with two numbers each
-- Make Array where you have three arrays with your favorite poker hands
+- Two arrays, with two numbers each
+- Three arrays with your favorite poker hands
 - Two strings, one `null`, three numbers and two empty arrays
 - Level 5 nested array
 
