@@ -1,5 +1,5 @@
 # Arrays
-Purpose of these exercises is to better understand `array` and `object` data types
+Purpose of these exercises is to better understand `array` data type
 
 ## Exercise 1 - Create array
 Create following arrays:
