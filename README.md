@@ -12,7 +12,7 @@ Create following arrays containing:
 - Level 5 nested array
 
 ## Exercise 2 - Get values from array
-You have an array: `[3, 6, 7, 7, [8], 9, [[9]]` in variable `someNumberArray` how can you access following:
+You have an array: `[3, 6, 7, 7, [8], 9, [[9]]]` in variable `someNumberArray` how can you access following:
 - Third value
 - First value
 - Last item
