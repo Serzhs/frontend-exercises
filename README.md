@@ -1,7 +1,7 @@
 # Functions
 Purpose of these exercises is to better understand functions
 
-#Exercise 1 - functions
+# Exercise 1 - functions
 Create and call functions mentioned below:
  - Function with name `myFirstFunction` that console logs your name
  - Function within a variable called `myFirstVariableFunction` that console logs your favorite food
