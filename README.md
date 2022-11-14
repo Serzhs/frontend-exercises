@@ -7,6 +7,7 @@ Create following arrays:
 - Five strings
 - Three numbers
 - Array with two arrays, with two numbers each
+- Make Array where you have three arrays with your favorite poker hands
 - Two strings, one `null`, three numbers and two empty arrays
 - Level 5 nested array
 
