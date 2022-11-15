@@ -16,7 +16,7 @@ Purpose of this exercises is to understand variables and difference between `var
 - Increment previously created variable value by ten and `console.log()` it. 
 
 ## Exercise 2 - Scope of a variable
-- Create `const`, `let` and `var` variables of your choice as `console.log()` them.
+- Create `const`, `let` and `var` variables of your choice and `console.log()` them.
 - Create an `if` condition of your choice and create new `const`, `let` and `var` variables of your choice, when you are done `console.log()` variables outside `if` condition.
 - Create an `function` of your choice and declare `const`, `let` and `var` variables of your choice when you are done `console.log()` variables outside `function`.
 - Inside `function` do `console.log()` variables you created in the first bullet point.
