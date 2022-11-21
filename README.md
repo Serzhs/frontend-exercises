@@ -28,6 +28,8 @@ Fill the table by adding `true` or `false` next to values.
 | `50 >= 50` |     |
 | `10 % 2` |     |
 | `"2" == 2` |     |
+| `0 || 5` |     |
+| `4 && 4` |     |
 
 ## Useful links
 - [JavaScript Truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)
