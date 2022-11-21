@@ -1,7 +1,7 @@
 # Truthy and Falsy values
 This exercise is for better understanding **Truthy** and **Falsy** values
 
-## Exercise 1 - functions
+## Exercise 1 - Truthy and Falsy
 Fill the table by adding `true` or `false` next to values.
 
 | Expression        | Answer          
@@ -28,8 +28,25 @@ Fill the table by adding `true` or `false` next to values.
 | `50 >= 50` |     |
 | `10 % 2` |     |
 | `"2" == 2` |     |
-| `0 || 5` |     |
-| `4 && 4` |     |
+
+
+
+## Exercise 2 - AND & OR
+What will be returning value in the expression below
+
+- `true && true`
+- `true && false`
+- `0 && ""`
+- `[] && {}`
+- `-10 && false`
+- `true || false`
+- `10 || 100`
+- `null || undefined`
+- `undefined || "Hello"`
+- `10 && ("Hello" || "World")`
+- `10 && 11 && 12 && 13`
+- `10 || 11 || 12 || 13`
+- `10 || 11 || 12 || false`
 
 ## Useful links
 - [JavaScript Truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)
