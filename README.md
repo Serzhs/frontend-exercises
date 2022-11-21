@@ -17,7 +17,7 @@ Fill the table by adding `true` or `false` next to values.
 | `null` |     |
 | `undefined` |     |
 | `{}` |     |
-| `"My name is Joe"` |     |
+| `"My name is John"` |     |
 | `""` |     |
 | `1 - 1` |     |
 | `100 + 0` |     |
