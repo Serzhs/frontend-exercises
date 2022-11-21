@@ -1,8 +1,34 @@
-# Frontend exercises
-This repo includes several frontend tasks. You can find tasks in branches based on topic it contains. As usual it starts easy and complexity grows.
+# Truthy and Falsy values
+This exercise is for better understanding **Truthy** and **Falsy** values
 
-## Technologies covered
-1. HTML
-2. CSS
-3. Typescript
-4. React
+## Exercise 1 - functions
+Fill the table by adding `true` or `false` next to values.
+
+| Expression        | Answer          
+| ------------- |:-------------:|
+| `0`      |  | 
+| `true`      |      |
+| `false` |     |
+| `"false"` |     |
+| `-1`      |  | 
+| `NaN` |     |
+| `Infinity` |     |
+| `[]` |     |
+| `null` |     |
+| `undefined` |     |
+| `{}` |     |
+| `"My name is Joe"` |     |
+| `""` |     |
+| `1 - 1` |     |
+| `100 + 0` |     |
+| `"Rick" + "Morty"` |     |
+| `"true" === true` |     |
+| `100 !== 600` |     |
+| `10 > 10` |     |
+| `50 >= 50` |     |
+| `10 % 2` |     |
+| `"2" == 2` |     |
+
+## Useful links
+- [JavaScript Truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)
+- [JavaScript Falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
