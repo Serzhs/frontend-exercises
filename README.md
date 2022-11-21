@@ -32,7 +32,7 @@ Fill the table by adding `true` or `false` next to values.
 
 
 ## Exercise 2 - AND & OR
-What will be returning value in the expression below
+Will this return `Truthy` and `Falsy` value?
 
 - `true && true`
 - `true && false`
