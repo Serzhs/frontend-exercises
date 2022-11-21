@@ -52,3 +52,5 @@ What will be returning value in the expression below
 ## Useful links
 - [JavaScript Truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)
 - [JavaScript Falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
+- [JavaScript OR](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR)
+- [JavaScript AND](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND)
