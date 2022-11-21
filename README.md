@@ -42,6 +42,7 @@ What will be returning value in the expression below
 - `true || false`
 - `10 || 100`
 - `null || undefined`
+- `0 || "Aye!"`
 - `undefined || "Hello"`
 - `10 && ("Hello" || "World")`
 - `10 && 11 && 12 && 13`
