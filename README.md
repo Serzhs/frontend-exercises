@@ -2,13 +2,13 @@
 This exercise is to put together typescript skills and start solving some issues
 
 ## Exercise 1
-Write a function that returns the square of a number
+Write a function that returns the square root of a number passed as argument
 
 ### Exercise 2
-Write a function to convert Celsius to Fahrenheit
+Write a function to convert Celsius passed as argument to Fahrenheit
 
 ### Exercise 3
-Write a function that takes an integer minutes and converts it to seconds.
+Write a function that takes an integer in minutes passed as argument and converts it to seconds.
 
 ### Exercise 4
 Write a function that are counting points for a basketball game, given the amount of 2-pointers scored and 3-pointers scored, find the final points for the team and return that value.
