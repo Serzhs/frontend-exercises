@@ -1,7 +1,7 @@
 # Function exercises
 This exercise is to put together typescript skills and start solving some issues
 
-## Exercise 1
+### Exercise 1
 Write a function that returns the square root of a number passed as argument
 
 ### Exercise 2
