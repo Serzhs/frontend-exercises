@@ -7,7 +7,7 @@ Create and call functions mentioned below:
  - Function within a variable called `myFirstVariableFunction` that console logs your favorite food
  - Arrow Function called `returnTwo` that returns `2`
  - Arrow function called `sumTwoAndFive` that returns `2 + 5`
- - Arrow Function called `arumentFunction` with an argument that console logs it
+ - Arrow Function called `argumentFunction` with an argument that console logs it
  - Arrow Function called `sumTwoNumbers` with 2 numbers as arguments to sum them and return result
  - Object called `mathObj` that has a key `sumTwoNumbers` with value of function created above.
  - One line Arrow function called `LuckyFuntion` that returns 7 + 7 + 7
