@@ -11,7 +11,7 @@ Create and call functions mentioned below:
  - Arrow Function called `sumTwoNumbers` with 2 numbers as arguments to sum them and return result
  - Object called `mathObj` that has a key `sumTwoNumbers` with value of function created above.
  - One line Arrow function called `LuckyFuntion` that returns 7 + 7 + 7
- - Multi line Arrow function called `ObjectFunction` that returns object with 3 keys `favoriteMovie`, `favoriteAnimal` amd `favoriteMcDonaldsMeal` without writing word `return`
+ - Multi line Arrow function called `ObjectFunction` that returns object with 3 keys `favoriteMovie`, `favoriteAnimal` and `favoriteMcDonaldsMeal` without writing word `return`
 
 ## Useful links
 - [JavaScript Functions](https://www.w3schools.com/js/js_functions.asp)
