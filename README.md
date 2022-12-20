@@ -15,3 +15,6 @@ Need to create components visible in wireframe:
 
 ## Wireframe
 <img src="https://github.com/Serzhs/frontend-exercises/blob/css-basics/assets/wireframe.png" width="600" />
+
+## Useful links
+- [Master HTML and CSS in 5-20 hours](https://www.hackerhero.com/blog/master-html-and-css/)
